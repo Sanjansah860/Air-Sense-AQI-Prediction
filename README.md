@@ -7,6 +7,14 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-yellow?style=for-the-badge)
 
 ---
+👉 Choose your preferred format:
+
+📄 View/Download PDF (Recommended for quick preview):
+[ML_Project_2503A52L20_.pdf](https://github.com/user-attachments/files/26706418/ML_Project_2503A52L20_.pdf)
+
+📊 Download PPT (Editable version):
+[ML_Project_2503A52L20_ (1).pptx](https://github.com/user-attachments/files/26706423/ML_Project_2503A52L20_.1.pptx)
+
 
 ## 📌 Problem Statement
 
